@@ -1,9 +1,13 @@
-![Amirali Hedayati — AI Engineer and Data Engineer](assets/profile-banner.svg)
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile-banner-mobile.svg" />
+  <img src="assets/profile-banner.svg" alt="Amirali Hedayati — AI Engineer and Data Engineer" width="1280" />
+</picture>
+
+<p align="center">Applied AI · Reliable pipelines · Useful products</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/amirali-hedayati">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:amirali.hedayati@fau.de">Email</a> &nbsp;·&nbsp;
-  <a href="https://github.com/amiralihs2?tab=repositories">Repositories</a>
+  <a href="mailto:amirali.hedayati@fau.de">Email</a>
 </p>
 
 <p align="center">
@@ -17,11 +21,11 @@
 
 ## About me
 
-I build **AI-powered tools, reproducible data pipelines, and practical web applications**, connecting data and models to software people can use.
+I build AI-powered tools, reproducible data pipelines, and practical web applications, connecting data and models to software people can use.
 
-**Currently working at [UKER — Uniklinikum Erlangen](https://www.uk-erlangen.de/en/) on research data pipelines and applied AI.**
+Currently working at [UKER — Uniklinikum Erlangen](https://www.uk-erlangen.de/en/) on research data pipelines and applied AI.
 
-I'm also a **Medical Engineering master's student at FAU Erlangen-Nuremberg**, specializing in **Medical Image and Data Processing**. My healthcare and research background shapes my focus on evaluation, data quality, and traceability.
+I'm also a Medical Engineering master's student at **FAU Erlangen-Nuremberg**, specializing in Medical Image and Data Processing. My healthcare and research background shapes my focus on evaluation, data quality, and traceability.
 
 ## Projects
 
@@ -29,37 +33,38 @@ I'm also a **Medical Engineering master's student at FAU Erlangen-Nuremberg**, s
 <tr>
 <td width="50%" valign="top">
 <h3>UKER R Pipeline</h3>
-<p>A modular R pipeline for reproducible dietary-data processing and reporting.</p>
+<p>Reproducible dietary-data processing in R, with input-quality checks and traceable Excel reports.</p>
 <p><sub>DATA ENGINEERING &nbsp;·&nbsp; RESEARCH</sub></p>
 </td>
 <td width="50%" valign="top">
 <h3>FoodMatch</h3>
-<p>AI-assisted matching of free-text food records to food composition databases.</p>
+<p>Matches free-text food records to food composition databases using LLM ranking, evaluation, and human review.</p>
 <p><sub>APPLIED AI &nbsp;·&nbsp; DATA MATCHING</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3>Almani</h3>
-<p>A German vocabulary learning app for Persian-speaking learners.</p>
+<p>German vocabulary practice for Persian-speaking learners, using spaced repetition and offline study. Built with React and TypeScript.</p>
 <p><sub>WEB APPLICATION &nbsp;·&nbsp; EDUCATION</sub></p>
 </td>
 <td width="50%" valign="top">
 <h3>Plotworthy</h3>
-<p>A movie and series discovery app.</p>
+<p>Movie and series discovery using live TMDB data, with passwordless sign-in and an account-synced watchlist.</p>
 <p><sub>WEB APPLICATION &nbsp;·&nbsp; DISCOVERY</sub></p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<h3><a href="https://github.com/amiralihs2/Washingmachine">WashSlot ↗</a></h3>
-<p>A shared laundry reservation system built for my dorm, with weekly scheduling and booking queues.</p>
+<h3><a href="https://github.com/amiralihs2/washslot">WashSlot ↗</a></h3>
+<p>Dorm laundry reservations with weekly scheduling and booking queues. Built with React, FastAPI, and MongoDB.</p>
+<p><a href="https://washslot.vercel.app">Live demo ↗</a></p>
 <p><sub>FULL-STACK DEVELOPMENT &nbsp;·&nbsp; EVERYDAY PROBLEMS</sub></p>
 </td>
 </tr>
 </table>
 
-More work: [Medical image similarity search](https://github.com/amiralihs2/medemed) · [Hybrid recommendation API](https://github.com/amiralihs2/hm-hybrid-recommender-api) · [Customer segmentation & CLV](https://github.com/amiralihs2/customer-segmentation-clv)
+More work: [MedEmbed retrieval prototype](https://github.com/amiralihs2/medemed) · [Hybrid recommendation API](https://github.com/amiralihs2/hm-hybrid-recommender-api) · [Customer segmentation & CLV](https://github.com/amiralihs2/customer-segmentation-clv)
 
 ## How I work
 
@@ -76,10 +81,3 @@ More work: [Medical image similarity search](https://github.com/amiralihs2/medem
 | scikit-learn · PyTorch · embeddings · FAISS | PostgreSQL · MongoDB |
 | Pandas · NumPy · Excel workflows · Power BI | Git · Vercel · Render |
 
----
-
-<p align="center">
-  <b>Let's connect</b><br />
-  <a href="https://linkedin.com/in/amirali-hedayati">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:amirali.hedayati@fau.de">amirali.hedayati@fau.de</a>
-</p>
