@@ -1,40 +1,40 @@
 # Hi, I'm Amirali Hedayati 👋
 
-**Medical engineering · Data science · Full-stack development**
+## AI Engineer & Data Engineer
 
-I'm a Medical Engineering master's student at **FAU Erlangen-Nuremberg**, specializing in **Medical Image and Data Processing**. I build tools that turn data into useful insights and make everyday tasks easier—from medical image retrieval and recommendation systems to interactive dashboards and web applications.
+**Applied AI · Data pipelines · Full-stack applications**
 
-## What I'm working on
+I build AI-powered tools, reproducible data workflows, and practical web applications. My focus is connecting data and models to software that people can use, with attention to evaluation, data quality, and clear documentation.
 
-- **FoodMatch:** contributing to AI-assisted matching of free-text food records to food composition databases, with a focus on evaluation and review workflows.
-- **Modular R pipelines:** developing reproducible dietary-data processing with input validation, nutrient calculations, and traceable outputs.
-- **Medical imaging and machine learning:** exploring vision-language embeddings, similarity search, and recommendation systems.
-- **Data analysis:** customer segmentation, forecasting, statistical testing, and dashboards that make results easier to understand.
-- **Web applications:** building responsive apps with authentication, account synchronization, offline support, and clear user interfaces.
+I'm a **Medical Engineering master's student at FAU Erlangen-Nuremberg**, specializing in **Medical Image and Data Processing**. My background brings a research and healthcare perspective to my engineering work.
 
-## Selected public projects
+## Projects
 
-| Project | What it does | Main tools |
-| --- | --- | --- |
-| [WashSlot](https://github.com/amiralihs2/Washingmachine) | A shared laundry reservation app with weekly bookings and queues, built to solve a scheduling problem in my dorm. | React, FastAPI, MongoDB |
-| [MedEmbed](https://github.com/amiralihs2/medemed) | A medical image retrieval prototype using image and text queries against a vector index. | BiomedCLIP, FAISS, Streamlit |
-| [H&M Hybrid Recommender](https://github.com/amiralihs2/hm-hybrid-recommender-api) | Combines popularity and content similarity to serve fashion recommendations through an API. | Python, scikit-learn, FastAPI |
-| [Customer Segmentation & CLV](https://github.com/amiralihs2/customer-segmentation-clv) | Uses RFM features, K-Means, and customer lifetime value analysis to explore purchasing behavior. | Python, Power BI |
-| [Inventory Risk & Forecasting](https://github.com/amiralihs2/inventory-risk-and-forecasting) | Explores sales forecasts, reorder points, and inventory risk through interactive dashboards. | Pandas, Statsmodels, Power BI |
-| [Hospital KPI Dashboard](https://github.com/amiralihs2/hospital-kpi-dashboard) | An interactive dashboard for admissions, length of stay, and other hospital metrics using synthetic data. | Python, Plotly, Streamlit |
+| Project | What it does |
+| --- | --- |
+| **UKER R Pipeline** | A modular R pipeline for reproducible dietary-data processing and reporting. |
+| **FoodMatch** | AI-assisted matching of free-text food records to food composition databases. |
+| **Almani** | A German vocabulary learning app for Persian-speaking learners. |
+| **Plotworthy** | A movie and series discovery app. |
+| **[WashSlot](https://github.com/amiralihs2/Washingmachine)** | A shared laundry reservation system built for my dorm, with weekly scheduling and booking queues. |
 
-More small projects: [SQL analytics](https://github.com/amiralihs2/sql-analytics-chinook) · [A/B test analysis](https://github.com/amiralihs2/ab-test-lift-analysis) · [ECG signal exploration](https://github.com/amiralihs2/ecg-arrhythmia-mini)
+Earlier work includes [medical image similarity search](https://github.com/amiralihs2/medemed), a [hybrid recommendation API](https://github.com/amiralihs2/hm-hybrid-recommender-api), and [customer segmentation & CLV analysis](https://github.com/amiralihs2/customer-segmentation-clv).
+
+## Engineering focus
+
+- **Applied AI:** integrating models into applications and evaluating their outputs.
+- **Data engineering:** transforming source data into structured outputs, with quality checks and reproducible processing.
+- **Product development:** connecting interfaces, APIs, and databases to solve practical problems.
 
 ## Tools I use
 
-| Area | Tools |
+| Area | Tools & methods |
 | --- | --- |
-| Programming | Python, R, TypeScript, JavaScript, SQL, MATLAB |
-| Data & machine learning | Pandas, NumPy, SciPy, scikit-learn, PyTorch, Statsmodels |
-| Visualization & dashboards | Power BI, Plotly, Matplotlib, Seaborn, Streamlit |
-| Web & APIs | React, Vite, Tailwind CSS, FastAPI |
-| Data storage & delivery | PostgreSQL, MongoDB, IndexedDB, Git, Vercel, Render |
-| Testing | Vitest, Testing Library, Playwright |
+| Languages | Python, R, SQL, TypeScript, JavaScript |
+| AI & machine learning | LLM integration and evaluation, scikit-learn, PyTorch, embeddings, FAISS |
+| Data processing & analysis | Pandas, NumPy, Excel workflows, Power BI |
+| Applications & APIs | React, FastAPI, Tailwind CSS |
+| Storage & deployment | PostgreSQL, MongoDB, Git, Vercel, Render |
 
 ## Let's connect
 
