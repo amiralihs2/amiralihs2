@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Amirali Hedayati — AI Engineer and Data Engineer</title>
+<desc id="desc">A navy and teal header showing data, models, and applications connected in a pipeline.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1222"/><stop offset="1" stop-color="#15273a"/></linearGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#a5b4fc"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#334155" stroke-width=".6" opacity=".26"/></pattern>
+</defs>
+<rect width="1280" height="360" rx="22" fill="url(#bg)"/>
+<rect x="770" width="510" height="360" rx="22" fill="url(#grid)"/>
+<path d="M785 0v360" stroke="#334155" opacity=".35"/>
+<rect x="54" y="52" width="46" height="4" rx="2" fill="url(#accent)"/>
+<text x="54" y="112" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" fill="#f8fafc">Amirali Hedayati</text>
+<text x="54" y="164" font-family="Arial, Helvetica, sans-serif" font-size="31" fill="#bcece6">AI Engineer &amp; Data Engineer</text>
+<text x="54" y="214" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#b7c5d9">Applied AI. Reliable pipelines. Useful products.</text>
+<rect x="54" y="263" width="218" height="38" rx="19" fill="#142d35" stroke="#28565b"/>
+<circle cx="76" cy="282" r="4" fill="#5eead4"/>
+<text x="92" y="288" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#d4f5ef">Research + Healthcare</text>
+<g fill="none" stroke="#5eead4" stroke-width="2" opacity=".55">
+<path d="M875 112h158v66h115"/>
+<path d="M925 255h108v-77"/>
+<path d="M850 180h75v75"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<rect x="820" y="80" width="126" height="66" rx="14" fill="#10282f" stroke="#40746f"/>
+<text x="883" y="119" font-size="18" font-weight="700" fill="#5eead4">DATA</text>
+<rect x="856" y="222" width="138" height="66" rx="14" fill="#222640" stroke="#595d8c"/>
+<text x="925" y="262" font-size="18" font-weight="700" fill="#c7d2fe">MODELS</text>
+<rect x="1080" y="145" width="144" height="66" rx="14" fill="#193247" stroke="#4b7997"/>
+<text x="1152" y="185" font-size="18" font-weight="700" fill="#bae6fd">PRODUCTS</text>
+</g>
+<circle cx="1033" cy="178" r="6" fill="#5eead4"/>
+<circle cx="850" cy="180" r="4" fill="#94a3b8"/>
+<text x="1018" y="331" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3" fill="#8495ac">FROM DATA TO DELIVERY</text>
+</svg>
