@@ -1,36 +1,41 @@
-# Hi there, I'm Amirali Hedayati! 👋
+# Hi, I'm Amirali Hedayati 👋
 
-🎓 **Medical Engineering Master's Student** specializing in **Medical Image and Data Processing** at FAU Erlangen-Nuremberg.  
-⚡ Passionate about merging **medicine and technology** to improve healthcare through innovative solutions.
+**Medical engineering · Data science · Full-stack development**
 
----
+I'm a Medical Engineering master's student at **FAU Erlangen-Nuremberg**, specializing in **Medical Image and Data Processing**. I build tools that turn data into useful insights and make everyday tasks easier—from medical image retrieval and recommendation systems to interactive dashboards and web applications.
 
-## 🛠️ Languages and Tools:
-- **Programming Languages**:
-  ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-  ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+## What I'm working on
 
-- **Machine Learning Libraries**:
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- **FoodMatch:** contributing to AI-assisted matching of free-text food records to food composition databases, with a focus on evaluation and review workflows.
+- **Modular R pipelines:** developing reproducible dietary-data processing with input validation, nutrient calculations, and traceable outputs.
+- **Medical imaging and machine learning:** exploring vision-language embeddings, similarity search, and recommendation systems.
+- **Data analysis:** customer segmentation, forecasting, statistical testing, and dashboards that make results easier to understand.
+- **Web applications:** building responsive apps with authentication, account synchronization, offline support, and clear user interfaces.
 
-- **Deep Learning Libraries**:
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+## Selected public projects
 
-- **Visualization Tools**:
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge)
-  ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
-  ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
+| Project | What it does | Main tools |
+| --- | --- | --- |
+| [WashSlot](https://github.com/amiralihs2/Washingmachine) | A shared laundry reservation app with weekly bookings and queues, built to solve a scheduling problem in my dorm. | React, FastAPI, MongoDB |
+| [MedEmbed](https://github.com/amiralihs2/medemed) | A medical image retrieval prototype using image and text queries against a vector index. | BiomedCLIP, FAISS, Streamlit |
+| [H&M Hybrid Recommender](https://github.com/amiralihs2/hm-hybrid-recommender-api) | Combines popularity and content similarity to serve fashion recommendations through an API. | Python, scikit-learn, FastAPI |
+| [Customer Segmentation & CLV](https://github.com/amiralihs2/customer-segmentation-clv) | Uses RFM features, K-Means, and customer lifetime value analysis to explore purchasing behavior. | Python, Power BI |
+| [Inventory Risk & Forecasting](https://github.com/amiralihs2/inventory-risk-and-forecasting) | Explores sales forecasts, reorder points, and inventory risk through interactive dashboards. | Pandas, Statsmodels, Power BI |
+| [Hospital KPI Dashboard](https://github.com/amiralihs2/hospital-kpi-dashboard) | An interactive dashboard for admissions, length of stay, and other hospital metrics using synthetic data. | Python, Plotly, Streamlit |
 
-- **Other Tools**:
-  ![SQL](https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
+More small projects: [SQL analytics](https://github.com/amiralihs2/sql-analytics-chinook) · [A/B test analysis](https://github.com/amiralihs2/ab-test-lift-analysis) · [ECG signal exploration](https://github.com/amiralihs2/ecg-arrhythmia-mini)
 
----
+## Tools I use
 
-## 📫 How to Reach Me:
-- **LinkedIn**: [linkedin.com/in/amirali-hedayati](https://linkedin.com/in/amirali-hedayati)
-- **Email**: [amirali.hedayati@fau.de](mailto:amirali.hedayati@fau.de)
+| Area | Tools |
+| --- | --- |
+| Programming | Python, R, TypeScript, JavaScript, SQL, MATLAB |
+| Data & machine learning | Pandas, NumPy, SciPy, scikit-learn, PyTorch, Statsmodels |
+| Visualization & dashboards | Power BI, Plotly, Matplotlib, Seaborn, Streamlit |
+| Web & APIs | React, Vite, Tailwind CSS, FastAPI |
+| Data storage & delivery | PostgreSQL, MongoDB, IndexedDB, Git, Vercel, Render |
+| Testing | Vitest, Testing Library, Playwright |
+
+## Let's connect
+
+[LinkedIn](https://linkedin.com/in/amirali-hedayati) · [Email](mailto:amirali.hedayati@fau.de)
